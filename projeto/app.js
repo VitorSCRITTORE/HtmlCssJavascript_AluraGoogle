@@ -1,7 +1,3 @@
-// Exibe o conteúdo da variável 'dados' no console do navegador.
-// Essa variável provavelmente contém um array de objetos com informações sobre os resultados da pesquisa.
-//console.log(dados);
-
 // Obtém a referência ao elemento HTML com o ID "resultados-pesquisa".
 // Este elemento será utilizado para exibir os resultados da pesquisa.
 let section = document.getElementById("resultados-pesquisa");
