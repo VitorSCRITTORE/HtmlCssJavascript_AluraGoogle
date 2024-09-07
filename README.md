@@ -45,5 +45,5 @@ Divirta-se explorando o mundo dos esportes!
 
 #desenvolvimentoweb #javascript #html #css #esportes #atletas #brasil
 
-Vitor Scrittore
-https://github.com/VitorSCRITTORE
+[Vitor Scrittore]
+[https://github.com/VitorSCRITTORE]
